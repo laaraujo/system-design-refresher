@@ -4,7 +4,7 @@
 
 - [Computer Architecture](./computer_architecture/)
 - [Production App Architecture](./prod_app_architecture/)
-- Design Requirements
+- [Design Requirements](./design_requirements/)
 - Networking
 - Application Layer Protocols
 - API Design
