@@ -2,10 +2,10 @@
 
 ## Content
 
-- Disk Storage
-- RAM
-- Cache
-- CPU
+- [Disk Storage](#disk-storage)
+- [RAM](#ram)
+- [Cache](#cache)
+- [CPU](#cpu)
 
 ## Disk Storage
 

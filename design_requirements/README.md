@@ -4,12 +4,10 @@
 
 ## Contents
 
-- Key system design elements
-- CAP Theorem
-- SLA and SLO
-- How to measure
-- Resilience
-- Speed
+- [Key system design elements](#key-system-design-elements)
+- [CAP Theorem](#cap-theorem)
+- [SLA and SLO](#slo-and-sla)
+- [Resilience](#resilience)
 
 ## Key System Design Elements
 

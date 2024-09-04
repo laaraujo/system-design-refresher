@@ -2,9 +2,9 @@
 
 ## Contents
 
-- API Paradigms
-- REST
-- Best Practices
+- [API Paradigms](#api-paradigms)
+- [REST](#rest-apis)
+- [Best Practices](#best-practices)
 
 ## API Paradigms
 

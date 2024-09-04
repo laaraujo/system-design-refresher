@@ -8,6 +8,9 @@
 
 ## Contents
 
+- [Caching](#caching)
+- [CDNs](#content-delivery-networks-cdn)
+
 ## Caching
 
 Technique used to improve the performance and efficiency of a system.
@@ -52,7 +55,7 @@ Usually done by the database internally or by an external cache layer like Redis
 
 ![alt text](./docs/db_cache.png)
 
-### Content Delivery Networks (CDN)
+## Content Delivery Networks (CDN)
 
 Generally used to serve static content like HTML, JS, CSS and media files.
 They cache the content from the original server and deliver it to users from the neares CDN server.

@@ -6,14 +6,12 @@ In this section we'll go over some of the most commonly used application level p
 
 ## Contents
 
-- HTTP
-  - Status Codes
-  - Methods
-- WebSockets
-- Email Related Protocols
-- File Transfer Protocols
-- Real-time Communications
-- RPC
+- [HTTP](#http)
+- [WebSockets](#websockets)
+- [Email Related Protocols](#email-related-protocols)
+- [File Transfer Protocols](#file-transfer-protocols)
+- [Real-time Communications](#real-time-communications)
+- [RPC](#rpc)
 
 ## HTTP
 

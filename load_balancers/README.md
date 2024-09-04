@@ -4,10 +4,10 @@
 
 ## Content
 
-- Common strategies and algorithms
-- Health Checks
-- Types of Load Balancers
-- Redundancy
+- [Common strategies and algorithms](#common-strategies)
+- [Health Checks](#health-checks)
+- [Types of Load Balancers](#types-of-load-balancers)
+- [Redundancy](#redundancy)
 
 ## Common Strategies
 
