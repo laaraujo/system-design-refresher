@@ -2,7 +2,7 @@ default: true
 
 # Spaces for indent
 MD007:
-  indent: 4
+  indent: 2
 
 # Line length
 MD013: false
