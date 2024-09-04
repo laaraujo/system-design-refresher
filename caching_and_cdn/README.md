@@ -20,7 +20,7 @@ It involves storing a copy of data in a temporary storage (cache) so that future
 
 ### Server Caching
 
-![alt text](server_cache.png)
+![alt text](./docs/server_cache.png)
 
 - Store frequently accessed data on the server-side to reduce expensive operations (like database queries)
 - Typically stored in a separate cache server (like Redis)
@@ -50,7 +50,7 @@ Common used policies are:
 
 Usually done by the database internally or by an external cache layer like Redis or Memcached
 
-![alt text](db_cache.png)
+![alt text](./docs/db_cache.png)
 
 ### Content Delivery Networks (CDN)
 
@@ -58,6 +58,6 @@ Generally used to serve static content like HTML, JS, CSS and media files.
 They cache the content from the original server and deliver it to users from the neares CDN server.
 If the CDN server has the content it will serve it, otherwise it will request it from the original server and cache it.
 
-![Pull-based CDN](pull_based_cdn.png)
+![Pull-based CDN](./docs/pull_based_cdn.png)
 
-![Push-based CDN](push_based_cdn.png)
+![Push-based CDN](./docs/push_based_cdn.png)

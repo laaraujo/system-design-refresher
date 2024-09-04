@@ -1,4 +1,7 @@
-# System Design
+# System Design Refresher
+
+The purpose of this repo is to touch on the most usual system design topics for software engineering interviews (mainly webdev).
+It is not intended to be any kind of in-depth guide for any of the topics mentioned, it is simply a refresher or a high level intro.
 
 ## Contents
 
@@ -12,10 +15,6 @@
 - [Proxy Servers](./proxy_servers/)
 - [Load Balancers](./load_balancers/)
 - [Databases](./databases/)
-
-## Sources
-
-- System Design Concepts by [FreeCodeCamp](https://www.youtube.com/watch?v=F2FmTdLtb_4)
 
 ## Contributing
 
@@ -32,6 +31,10 @@ npm install -g markdownlint-cli
 # Setup pre-commit hooks
 pre-commit install
 ```
+
+## Sources
+
+- System Design Concepts by [FreeCodeCamp](https://www.youtube.com/watch?v=F2FmTdLtb_4)
 
 ## This repo
 

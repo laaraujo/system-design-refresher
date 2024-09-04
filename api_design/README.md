@@ -8,7 +8,7 @@
 
 ## API Paradigms
 
-![API Paradigms](api_paradigms.png)
+![API Paradigms](./docs/api_paradigms.png)
 
 ## Rest APIs
 

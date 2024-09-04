@@ -8,7 +8,7 @@
 
 ## Types of Proxy Servers
 
-![Proxy Server types](types.png)
+![Proxy Server types](./docs/types.png)
 
 - `Forward Proxy`: sits in front of clients and is used to forward requests to other servers on the internet. Often used within internal networks to control internal access
 - `Reverse Proxy`: sits in front of one or more webservers, intercepting requests. It is used for load-balancing, web acceleration and as a security layer.
@@ -20,7 +20,7 @@
 
 ## Forward proxy
 
-![Forward Proxy Diagram](./forward_proxy.png)
+![Forward Proxy Diagram](./docs/forward_proxy.png)
 
 ### Common use cases
 
@@ -31,7 +31,7 @@
 
 ## Reverse Proxy
 
-![Reverse Proxy Diagram](./reverse_proxy.png)
+![Reverse Proxy Diagram](./docs/reverse_proxy.png)
 
 Clients interact only with the reverse proxy and may not know about the servers behind it.
 

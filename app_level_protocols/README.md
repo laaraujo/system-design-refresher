@@ -1,6 +1,6 @@
 # Application Level Protocols
 
-![Application Level Protocols](app_level_protocols.png)
+![Application Level Protocols](./docs/app_level_protocols.png)
 
 In this section we'll go over some of the most commonly used application level protocols.
 

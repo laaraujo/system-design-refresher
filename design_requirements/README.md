@@ -1,6 +1,6 @@
 # Design Requirements
 
-![Good design principles](good_design_principles.png)
+![Good design principles](./docs/good_design_principles.png)
 
 ## Contents
 
@@ -40,7 +40,7 @@ Also known as Brewer's theorem, it is a set of principles that guide us in makin
 - Availability
 - Partition Tolerance
 
-![CAP Theorem](cap_theorem.png)
+![CAP Theorem](./docs/cap_theorem.png)
 
 According to the CAP theorem a distributed system can only achieve 2 out of these properties at the same time.
 
@@ -80,6 +80,6 @@ To measure this aspect we use:
 - Fault Tolerance: preparing for when things go wrong and how our system deals with unexpected failures
 - Redundancy: if our system fails, there is another "backup" ready to take its place
 
-![Resilience aspects](resilience.png)
+![Resilience aspects](./docs/resilience.png)
 
-![Speed measurements](speed.png)
+![Speed measurements](./docs/speed.png)

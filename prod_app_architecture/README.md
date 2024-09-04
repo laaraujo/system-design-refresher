@@ -1,6 +1,6 @@
 # Production Application Architecture
 
-![High level overview of an average system architecture](example.png)
+![High level overview of an average system architecture](./docs/example.png)
 
 ## Contents
 
@@ -41,7 +41,7 @@ Continuous Integration and Continuous Deployment
 
 ## Safe Environments
 
-![alt text](safe_envs.png)
+![alt text](./docs/safe_envs.png)
 
 - **If possible**; never debug or test directly in production environments
 - We typically have a development/staging environment to test code or debug production issues.
