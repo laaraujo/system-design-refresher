@@ -5,13 +5,13 @@
 - [Computer Architecture](./computer_architecture/)
 - [Production App Architecture](./prod_app_architecture/)
 - [Design Requirements](./design_requirements/)
-- Networking
+- [Networking](./networking/)
 - [Application Layer Protocols](./app_level_protocols/)
 - [API Design](./api_design/)
 - [Caching and CDNs](./caching_and_cdn/)
-- Proxy Servers
-- Load Balancers
-- Databases
+- [Proxy Servers](./proxy_servers/)
+- [Load Balancers](./load_balancers/)
+- [Databases](./databases/)
 
 ## Sources
 
