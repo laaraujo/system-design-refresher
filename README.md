@@ -6,9 +6,9 @@
 - [Production App Architecture](./prod_app_architecture/)
 - [Design Requirements](./design_requirements/)
 - Networking
-- Application Layer Protocols
-- API Design
-- Caching and CDNs
+- [Application Layer Protocols](./app_level_protocols/)
+- [API Design](./api_design/)
+- [Caching and CDNs](./caching_and_cdn/)
 - Proxy Servers
 - Load Balancers
 - Databases
