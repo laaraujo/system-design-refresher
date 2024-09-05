@@ -6,16 +6,16 @@ It is not intended to be any kind of in-depth guide for any of the topics mentio
 
 ## Contents
 
-- [Computer Architecture](./computer_architecture/)
-- [Production App Architecture](./prod_app_architecture/)
-- [Design Requirements](./design_requirements/)
-- [Networking](./networking/)
-- [Application Layer Protocols](./app_level_protocols/)
-- [API Design](./api_design/)
-- [Caching and CDNs](./caching_and_cdn/)
-- [Proxy Servers](./proxy_servers/)
-- [Load Balancers](./load_balancers/)
-- [Databases](./databases/)
+- [Computer Architecture](./contents/computer_architecture/)
+- [Production App Architecture](./contents/prod_app_architecture/)
+- [Design Requirements](./contents/design_requirements/)
+- [Networking](./contents/networking/)
+- [Application Layer Protocols](./contents/app_level_protocols/)
+- [API Design](./contents/api_design/)
+- [Caching and CDNs](./contents/caching_and_cdn/)
+- [Proxy Servers](./contents/proxy_servers/)
+- [Load Balancers](./contents/load_balancers/)
+- [Databases](./contents/databases/)
 
 ## Contributing
 

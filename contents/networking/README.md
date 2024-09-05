@@ -15,19 +15,19 @@ A unique identifier for each device in a network.
 - `IPv4` addresses are 32bit
 - `IPv6` addresses are 128bit significally increasing the number of available IP addresses
 
-![alt text](image.png)
+![alt text](./docs/ip_addresses.png)
 
 ## Internet Protocol
 
 Set of rules that define how data is sent and received
 
-![alt text](image-2.png)
+![alt text](./docs/ip.png)
 
 ## Application Layer
 
 In this layer data specific to application protocol is stored.
 
-![alt text](image-1.png)
+![alt text](./docs/app_layer.png)
 
 ## Transport Layer
 
@@ -35,9 +35,9 @@ In this layer data specific to application protocol is stored.
 
 Transmission Control Protocol ensures complete and correct delivery of data packets. It implements a process known as `3-way handshake`.
 
-![alt text](image-3.png)
+![alt text](./docs/tcp.png)
 
-![alt text](image-4.png)
+![alt text](./docs/3_way_handshake.png)
 
 ### UDP
 
@@ -55,3 +55,27 @@ Domain Name System translates human-friendly domain names into IP addresses, all
 ### ICANN
 
 Coordinates the global IP address space and DNS. Domain name registrars are accredited by ICANN to sell domain names to the public.
+
+## Network Infrastructure
+
+Devices connected in a LAN (Local Area Network) can communicate with each other directly.
+
+### Public vs Private IP Address
+
+![alt text](./docs/public_vs_private.png.png)
+
+- `Public IP Address`: unique across the internet
+- `Private IP Address`: unique within the local network
+
+### Firewalls
+
+We use firewalls to protect a network which monitors and controls incoming and outgoing network traffic.
+
+### Ports
+
+Within a device specific processes are identified by ports.
+Some ports are reserved for specific protocols:
+
+- `HTTP`: 80
+- `HTTPS`: 443
+- `SSH`: 22
