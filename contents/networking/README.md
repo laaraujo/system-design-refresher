@@ -62,7 +62,7 @@ Devices connected in a LAN (Local Area Network) can communicate with each other 
 
 ### Public vs Private IP Address
 
-![alt text](./docs/public_vs_private.png.png)
+![alt text](./docs/public_vs_private.png)
 
 - `Public IP Address`: unique across the internet
 - `Private IP Address`: unique within the local network
