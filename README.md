@@ -1,7 +1,8 @@
 # System Design Refresher
 
 The purpose of this repo is to touch on the most usual system design topics for software engineering interviews (mainly webdev).
-It is not intended to be any kind of in-depth guide for any of the topics mentioned, it is simply a refresher or a high level intro.
+
+It is not intended to be any kind of in-depth guide for any of the topics mentioned, it is simply a refresher or a TL;DR version.
 
 ## Contents
 
